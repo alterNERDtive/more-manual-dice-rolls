@@ -1,0 +1,23 @@
+{
+  "name": "more-manual-dice-rolls",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rollup -c rollup.config.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alterNERDtive/more-manual-dice-rolls.git"
+  },
+  "keywords": [
+    "fvtt",
+    "module"
+  ],
+  "author": "alterNERDtive",
+  "bugs": {
+    "url": "https://github.com/alterNERDtive/more-manual-dice-rolls"
+  },
+  "homepage": "https://github.com/alterNERDtive/more-manual-dice-rolls",
+  "devDependencies": {
+    "rollup": "^4.22.4"
+  }
+}

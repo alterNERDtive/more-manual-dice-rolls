@@ -1,0 +1,47 @@
+{
+  "id": "more-manual-dice-rolls",
+  "title": "More Manual Dice Rolls",
+  "description": "This module allows setting more dice rolls than the standard types to manual.",
+  "version": "20251216",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13.351",
+    "maximum": "13.999"
+  },
+  "esmodules": [
+    "scripts/setup.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "hotReload": {
+      "extensions": [
+        "json"
+      ],
+      "paths": [
+        "lang"
+      ]
+    }
+  },
+  "url": "https://github.com/alterNERDtive/more-manual-dice-rolls",
+  "bugs": "https://github.com/alterNERDtive/more-manual-dice-rolls/issues/",
+  "changelog": "https://github.com/alterNERDtive/more-manual-dice-rolls/releases/latest/",
+  "download": "https://github.com/alterNERDtive/more-manual-dice-rolls/archive/refs/heads/main.zip",
+  "manifest": "https://github.com/alterNERDtive/more-manual-dice-rolls/raw/refs/heads/main/module.json",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "alterNERDtive",
+      "discord": "alternerdtive",
+      "url": "https://alternerd.tv",
+      "flags": {}
+    }
+  ]
+}
