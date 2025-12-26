@@ -10,6 +10,10 @@ Foundry (since v12) allows you to configure various dice rolls for manual rollin
 
 This module allows either overriding _all_ dice rolls to manual, or adding specific dice to the manual rolls setting.
 
+## Adding More Dice
+
+You need other dice that are not included in the module yet? Please file an issue (or submit a PR!) and I will include them in the next release.
+
 ## Settings
 
 - **Override All Rolls**: Overrides all rolls to manual. ALL dice rolls will be manual, regardless of the dice configuration.
